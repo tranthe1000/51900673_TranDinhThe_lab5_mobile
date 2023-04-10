@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements Toolbar.OnMenuIte
         EventAdapter.LongTouchListener {
     private Toolbar toolbar;
     Switch switch_button;
+    //tran dinh the
 
     private RecyclerView recyclerView;
     private EventManager eventManager;
